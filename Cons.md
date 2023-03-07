@@ -1,1 +1,2 @@
 -You should only use rebase locally.
+-The true history is in fact lost.
